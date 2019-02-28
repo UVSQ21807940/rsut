@@ -31,13 +31,21 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-[www.google.com]
- (www.google.com)  
+[khali mo](www.google.com)  
+
+
+
  **mohand** 
+ 
+ 
+ 
+ 
  `if a/b= 1  alors
  return 1`
  
- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
+ 
+ For more details see [cliquer bobo](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
