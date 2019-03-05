@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](C:\Users\ordinateur\Desktop\outils.png)
+[Link](url) and ![Image](outils.png)
 ```
 
 ## khali moh
