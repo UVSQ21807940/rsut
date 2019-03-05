@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](outils.png)
+[Link](url) and ![Image](https://github.com/UVSQ21807940/rsut/blob/master/outils.png)
 ```
 
 ## khali moh
